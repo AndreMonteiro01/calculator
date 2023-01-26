@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(43, 51, 43);
+}
+
+.header-tela{
+    margin-top: 40px;
+    border: 2px solid rebeccapurple;
+    height: 640px;
+    border-radius: 50px;
+    max-width: 550px;
+    margin-left: 450px;
+    background-color: black;
+}
+.tela{
+    border: 1px solid blue;
+    height: 100px;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 15px;
+    background-color: rgb(43, 40, 40);
+    color: rgb(6, 94, 94);
+    font: 80pt;
+    text-align-last: right;
+   
+}
+   
+button{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(43, 40, 40);
+    padding-left: center;
+    border-radius: 55px;
+    color: aqua;  
+    cursor: pointer;
+}
+
+#operadores{
+    background: rgba(0, 70, 128, 0.603);
+    width: 100px;
+    height: 100px;
+    padding-left: center;
+    border-radius: 55px;
+    color: white;
+    font: normal 30pt Arial;
+    margin-left: 27.5px;
+    margin-top: 5px;
+}
+
+#ac{
+    background: rgba(6, 173, 0, 0.747);
+    width: 100px;
+    height: 100px;
+    padding-left: center;
+    border-radius: 55px;
+    color: white;
+    font: normal 30pt Arial;
+    margin-left: 27.5px;
+    margin-top: 5px;
+}
+
+#sinal-igual{
+    background: rgba(32, 0, 173, 0.747);
+    width: 100px;
+    height: 100px;
+    padding-left: center;
+    border-radius: 55px;
+    color: white;
+    font: normal 30pt Arial;
+    margin-left: 27.5px;
+    margin-top: 5px;
+}
+
+
+#linha{
+    font: normal 30pt Arial;
+    margin-left: 27.5px;
+    margin-top: 5px;
+}
+
+  
